@@ -1,0 +1,24 @@
+{
+  "name": "node_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^6.0.52",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "json-loader": "^0.5.4",
+    "typings": "^2.1.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "listFiles": false,
+        "allowJs": false
+    },
+    "exclude": [
+        "./node_modules"
+    ],
+    "include": [
+        "./typings/index.d.ts"
+    ]
+}
